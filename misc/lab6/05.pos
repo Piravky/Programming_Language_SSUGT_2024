@@ -1,9 +1,9 @@
 % program   : RTKPOST ver.2.4.3 b34
-% inp file  : C:\Users\Danisimo\Desktop\Лабы_ГНСС\Альбина\BREW\brew3140.22o
-% inp file  : C:\Users\Danisimo\Desktop\Лабы_ГНСС\Альбина\NANO\nano3140.22o
-% inp file  : C:\Users\Danisimo\Desktop\Лабы_ГНСС\Альбина\BRDC00IGS_R_20223140000_01D_MN.rnx
-% inp file  : C:\Users\Danisimo\Desktop\Лабы_ГНСС\Альбина\igs22354.sp3
-% inp file  : C:\Users\Danisimo\Desktop\Лабы_ГНСС\Альбина\igs22354.clk_30s
+% inp file  : C:\Users\Danisimo\Desktop\????_????\???????\BREW\brew3140.22o
+% inp file  : C:\Users\Danisimo\Desktop\????_????\???????\NANO\nano3140.22o
+% inp file  : C:\Users\Danisimo\Desktop\????_????\???????\BRDC00IGS_R_20223140000_01D_MN.rnx
+% inp file  : C:\Users\Danisimo\Desktop\????_????\???????\igs22354.sp3
+% inp file  : C:\Users\Danisimo\Desktop\????_????\???????\igs22354.clk_30s
 % obs start : 2022/11/10 00:00:00.0 GPST (week2235 345600.0s)
 % obs end   : 2022/11/10 23:59:30.0 GPST (week2235 431970.0s)
 % pos mode  : Static

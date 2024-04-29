@@ -1,8 +1,8 @@
 % program   : RTKPOST ver.2.4.3 b34
-% inp file  : C:\Users\Danisimo\Desktop\Дмитрий Никкель\ESCU\escu0010.17o
-% inp file  : C:\Users\Danisimo\Desktop\Дмитрий Никкель\BRDC00IGS_R_20170010000_01D_MN.rnx
-% inp file  : C:\Users\Danisimo\Desktop\Дмитрий Никкель\igs19300.sp3
-% inp file  : C:\Users\Danisimo\Desktop\Дмитрий Никкель\igs19300.clk_30s
+% inp file  : C:\Users\Danisimo\Desktop\??????? ???????\ESCU\escu0010.17o
+% inp file  : C:\Users\Danisimo\Desktop\??????? ???????\BRDC00IGS_R_20170010000_01D_MN.rnx
+% inp file  : C:\Users\Danisimo\Desktop\??????? ???????\igs19300.sp3
+% inp file  : C:\Users\Danisimo\Desktop\??????? ???????\igs19300.clk_30s
 % obs start : 2017/01/01 00:00:00.0 GPST (week1930      0.0s)
 % obs end   : 2017/01/01 23:59:30.0 GPST (week1930  86370.0s)
 % pos mode  : PPP Static
